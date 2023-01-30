@@ -3,6 +3,18 @@
   "displayName": "Blue Hacker",
   "description": "",
   "version": "0.0.1",
+  "publisher": "DarkCoder",
+  "icon": "288887.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akashpathak9587/blue-hacker-custom-vs-code-theme-.git"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "blue dark theme",
+    "complete blue theme"
+  ],
   "engines": {
     "vscode": "^1.74.0"
   },
