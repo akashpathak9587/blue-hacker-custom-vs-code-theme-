@@ -1,0 +1,21 @@
+{
+  "name": "blue-hacker",
+  "displayName": "Blue Hacker",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Blue Hacker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Blue Hacker-color-theme.json"
+      }
+    ]
+  }
+}
